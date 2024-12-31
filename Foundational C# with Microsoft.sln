@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundational C# with Microsoft", "Foundational C# with Microsoft\Foundational C# with Microsoft.csproj", "{AD3CB6E3-FFD7-45E6-8EF5-B8D758FB94F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingGit", "TestingGit\TestingGit.csproj", "{C3E76F23-9EDC-44EC-9401-057DEB52F8B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AD3CB6E3-FFD7-45E6-8EF5-B8D758FB94F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD3CB6E3-FFD7-45E6-8EF5-B8D758FB94F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD3CB6E3-FFD7-45E6-8EF5-B8D758FB94F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E76F23-9EDC-44EC-9401-057DEB52F8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E76F23-9EDC-44EC-9401-057DEB52F8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E76F23-9EDC-44EC-9401-057DEB52F8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E76F23-9EDC-44EC-9401-057DEB52F8B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
